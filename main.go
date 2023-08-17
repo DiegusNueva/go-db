@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/DiegusNueva/go-db/pkg/storage"
+	"github.com/DiegusNueva/go-db/storage"
 )
 
 func main() {
